@@ -1,8 +1,8 @@
 # redis-test
 
 ## Background
-Credit card service is deployed in amazon EC2 clout.
-It is behind nginx proxy that listens to port 80. 
+Credit card service is deployed in amazon EC2 cloud (host ec2-18-219-41-183.us-east-2.compute.amazonaws.com).
+It is behind nginx proxy that listens to port 80.
 
 ## Usage
 
